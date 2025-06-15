@@ -1,4 +1,4 @@
-# Web Development Project 1 - *Queens Soccer Field*
+# Web Development Project 1 - *Local vendors*
 
 Submitted by: **Geovani Tzul Lopez*
 
